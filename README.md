@@ -6,7 +6,7 @@ Flashes Windows on ARM to your SD Card for Raspberry Pi
 
 * Visual C++ Redistributable 2008/ Visual C++ Redistributable 2008 SP1
 * Windows AIK/OPK for Vista/7, Windows ADK for 8/8.1/10
-* `dism.exe
+* `dism.exe`
 * `bcdedit.exe`
 
 # How it Works
