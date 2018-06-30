@@ -4,8 +4,11 @@ Flashes Windows on ARM to your SD Card for Raspberry Pi
 
 # Prerequisites
 
-* Visual C++ Redistributable 2008/ Visual C++ Redistributable 2008 SP1
-* Windows AIK/OPK for Vista/7, Windows ADK for 8/8.1/10
+* x86 PCs Only: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=29">Visual C++ Redistributable 2008</a>/<a href="http://www.microsoft.com/en-us/download/details.aspx?id=5582">Visual C++ Redistributable 2008 SP1</a>
+* amd64 PCs Only: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=15336">Visual C++ Redistributable 2008</a>/<a href="http://www.microsoft.com/en-us/download/details.aspx?id=2092">Visual C++ Redistributable 2008 SP1</a>
+* ia64 PCs Only: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=4887">Visual C++ Redistributable 2008</a>/<a href="http://www.microsoft.com/en-us/download/details.aspx?id=19823">Visual C++ Redistributable 2008 SP1</a>
+* Windows Vista/7: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=5753">Windows AIK</a> or Windows OPK
+* Windows 8/8.1/10: <a href="https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install">Windows ADK</a> Builds
 * `dism.exe`
 * `bcdedit.exe`
 
