@@ -23,7 +23,7 @@ When you download the binary files. you will get a `builder.exe` app and a `rule
 
 and written the Raspberry Pi drivers to the wim dir.
 
-To flash it you will need to make some edits. Replace
+To flash it you will need to make some edits to the txt file. Replace
 ```
 mount
 ```
