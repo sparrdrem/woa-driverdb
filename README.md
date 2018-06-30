@@ -14,7 +14,7 @@ Flashes Windows on ARM to your SD Card for Raspberry Pi
 
 # How it Works
 
-When you download the binary files. you will get a builder.exe app and a rules-make.txt file. At this point you should have already downloaded Raspberry Pi 3 UEFI Bios, RPi3 Windows Stuff files (credit goes to andreiw), mounted the install.wim file to mount, created the following partitions:
+When you download the binary files. you will get a `builder.exe` app and a `rules-make.txt` file. At this point you should have already downloaded Raspberry Pi 3 UEFI Bios, RPi3 Windows Stuff files (credit goes to andreiw), mounted the install.wim file to mount, created the following partitions:
 
 | Partition | Size       | Type    | Label   |
 | :---:     | :---:      | :---:   | :---:   |
