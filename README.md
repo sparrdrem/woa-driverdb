@@ -19,9 +19,9 @@ Below is a list of products and what the product is capable of:
 | Products:                      | Windows On Arm Builder Express | Windows On Arm Builder Pro | Windows On Arm Builder PE |
 | :---:                          | :---:                          | :---:                      | :---:                     |
 | Installs UEFI Bios for RPi     | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_check_mark:        |
-| Installs portable MiniTool     | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_check_mark:        |
+| Installs portable MiniTool     | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_multiplication_x:  |
 | Comes with RPi Drivers         | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_check_mark:        |
-| Flashes WIM to SD Card         | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_check_mark:        |
+| Flashes WIM to SD Card         | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_multiplication_x:  |
 | Creates EFI Files              | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_check_mark:        |
 | Edits BCD Automatically        | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_check_mark:        |
 | Removes unnecessary components | :heavy_multiplication_x:       | :heavy_check_mark:         | :heavy_multiplication_x:  |
