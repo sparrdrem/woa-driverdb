@@ -45,13 +45,9 @@ and written the Raspberry Pi drivers to the wim dir.
 
 To flash it you will need to make some edits to the txt file. Replace
 ```
-mount
-```
-with the name of the folder that you created. Replace
-```
 G:
 ```
-with the letter of the NTFS partition. And finally replace
+with the letter of the NTFS partition. And replace
 ```
 E:
 ```
