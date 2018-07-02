@@ -26,11 +26,10 @@ Below is a list of products and what the product is capable of:
 | Edits BCD Automatically        | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_check_mark:        |
 | Removes unnecessary components | :heavy_multiplication_x:       | :heavy_check_mark:         | :heavy_multiplication_x:  |
 | Removes unnecessary services   | :heavy_multiplication_x:       | :heavy_check_mark:         | :heavy_multiplication_x:  |
-| Adds tweaks to registry on WoA | :heavy_multiplication_x:       | :heavy_check_mark:         | :heavy_multiplication_x:  |
-| Creates backup of make batch   | :heavy_multiplication_x:       | :heavy_check_mark:         | :heavy_multiplication_x:  |
+| Adds tweaks to registry on WoA | :heavy_check_mark:             | :heavy_check_mark:         | :heavy_multiplication_x:  |
 | Create WinPE Environment       | :heavy_multiplication_x:       | :heavy_multiplication_x:   | :heavy_check_mark:        |
 | Community Support              | :heavy_check_mark:             | :heavy_multiplication_x:   | :heavy_multiplication_x:  |
-| Pricing                        | $0.00 (Free)                   | $2.50 (+tax in some areas) | $0.00 (Free)
+| Pricing                        | $0.00 (Free)                   | $2.50 (+tax in some areas) | $0.00 (Free)              |
 
 # How it Works
 
@@ -42,13 +41,3 @@ When you download the binary files. you will get a `builder.exe` app and a `rule
 | NTFS      | ~16-128GiB | Primary | Windows |
 
 and written the Raspberry Pi drivers to the wim dir.
-
-To flash it you will need to make some edits to the txt file. Replace
-```
-G:
-```
-with the letter of the NTFS partition. And replace
-```
-E:
-```
-with the letter of the Fat32 partition.
