@@ -11,6 +11,7 @@ Flashes Windows on ARM to your SD Card for Raspberry Pi
 * Windows 8/8.1/10: <a href="https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install">Windows ADK</a> Builds
 * `dism.exe`
 * `bcdedit.exe`
+* `bcdboot.exe`
 
 # Choosing the Best Product that Suits Your Needs
 
