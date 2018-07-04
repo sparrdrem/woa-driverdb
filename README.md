@@ -8,7 +8,7 @@ Install <a href="http://jrsoftware.org/download.php/is.exe?site=1">Inno Setup 5.
 
 ## Building Drivers from Source
 
-Download the <a href="https://developer.microsoft.com/en-us/windows/hardware/license-terms-EWDK">Enterprise Windows Driver Kit with Visual Studio 15.x</a> iso and open the `buildme.cmd` file in command prompt.
+Download the <a href="https://developer.microsoft.com/en-us/windows/hardware/license-terms-EWDK">Enterprise Windows Driver Kit with Visual Studio Build Tools 15.x</a> iso and open the `buildme.cmd` file in command prompt.
 
 ## List of Drivers
 
