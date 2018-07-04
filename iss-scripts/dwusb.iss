@@ -4,8 +4,8 @@
 ; Setup program compiled in Inno Setup Compiler 5.5.9
 
 [Setup]
-AppName=Driver for dw USB Devices
-AppVerName=dw USB Device Driver
+AppName=Driver for DecaWave USB Devices
+AppVerName=dwUSB Device Driver
 AppCopyright=Setup created by SparrOSDeveloperTeam
 DefaultDirName={pf}\woa-driverdb\dwusb
 LicenseFile=license.txt
