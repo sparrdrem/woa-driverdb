@@ -4,8 +4,8 @@
 ; Setup program compiled in Inno Setup Compiler 5.5.9
 
 [Setup]
-AppName=Driver for bcm2836 pwm Devices
-AppVerName=bcm2836 pwm Device Driver
+AppName=Driver for Broadcom 2836 pwm Devices
+AppVerName=bcm2836pwm Device Driver
 AppCopyright=Setup created by SparrOSDeveloperTeam
 DefaultDirName={pf}\woa-driverdb\bcm2836pwm
 LicenseFile=license.txt
